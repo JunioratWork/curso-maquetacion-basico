@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Noto+Sans:wght@500&display=swap');
+
+body{      
+    position: relative;
+    width: 1920px;
+    height: 960px; 
+    background: linear-gradient(108.97deg, #FFEDAF 27.2%, #B6CBFE 99.49%);
+
+}
+
+.logo{
+    position: absolute;
+    width: 392.4px;
+    height: 372.25px;
+    left: 169px;
+    top: 77px;   
+
+    background: url(Demon Slayer.png)
+}
+
+.imagen{
+    position: absolute;
+    width: 1197px;
+    height: 913px;
+    left: 723px;
+    top: 23px;
+
+    background: url(Patterns.png);
+}
+
+.texto{
+    position: absolute;
+    width: 483px;
+    height: 270.46px;
+    left: 185px;
+    top: 508px;
+    
+    line-height: 40px;   
+    
+    color: #000000;
+}
+
+.texto h1{    
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    margin-bottom: 45px;
+    
+}
+
+.texto p{    
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;    
+}
+
+
+
+.logotipo{
+    position: absolute;
+    width: 483px;
+    height: 48px;
+    left: 125.59px;
+    top: 848.77px; 
+}
